@@ -1,0 +1,20 @@
+{
+  "name": "reportmanager",
+  "version": "1.0.0",
+  "description": "Manager-Team members reports manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nifex007/ReportManager.git"
+  },
+  "author": "Nifemi Sola-Ojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nifex007/ReportManager/issues"
+  },
+  "homepage": "https://github.com/nifex007/ReportManager#readme",
+  "dependencies": {}
+}
